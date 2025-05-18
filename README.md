@@ -20,7 +20,7 @@
 - 👮 Curso de Programação | DSI - Polícia Militar do Estado do Rio de Janeiro  
 - 🚀 Estudando Python, HTML/CSS, Git, GitHub e Inteligência Artificial  
 - 🎯 Buscando minha primeira oportunidade na área de desenvolvimento  
-- 📚 Autodidata e focado em evolução constante
+ 
 
 ---
 
