@@ -18,7 +18,7 @@
 
 - 📍 São Fidélis/RJ  
 - 👮 Curso de Programação | DSI - Polícia Militar do Estado do Rio de Janeiro  
-- 🚀 Estudando programação Full-Stack SENAI / PMERJ
+- 🚀 Estudando programação Full-Stack SENAI / PMERJ e Análise e Desenvolvimento de Sistemas pela Gran Faculdade
 - 🎯 Buscando minha primeira oportunidade na área de desenvolvimento  
  
 
