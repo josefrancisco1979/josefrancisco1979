@@ -22,8 +22,8 @@
 ## ✨ Sobre mim
 
 - 📍 São Fidélis/RJ
-- 🎓 Análise e Desenvolvimento de Sistemas — **Gran Faculdade** (em andamento)
-- 💻 Curso de Análise e Desenvolvimento de Sistemas (CADS) — 2025
+- 🎓 Análise e Desenvolvimento de Sistemas — **Gran Faculdade** (3º período)
+- 💻 Curso de Análise e Desenvolvimento de Sistemas da PMERJ — **CADSPM I (2025)**
 - 🅰️ Desenvolvimento Web com Angular 19 — SENAI
 - 🖥️ Técnico em Informática — FAETEC
 - 🚀 Mais de 20 anos de serviço público, com experiência na área administrativa e financeira
