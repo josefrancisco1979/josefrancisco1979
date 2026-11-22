@@ -58,5 +58,5 @@ Automação:  Bots para Telegram e WhatsApp | Playwright
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francisco-gon%C3%A7alves-878964191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/josefranciscogoncalves/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
