@@ -57,4 +57,6 @@ Automação:  Bots para Telegram e WhatsApp | Playwright
 
 ## 📫 Contato
 
-Me chame por aqui no GitHub ou pelo LinkedIn (link em breve).
+<p align="center">
+  <a href="https://www.linkedin.com/in/francisco-gon%C3%A7alves-878964191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
